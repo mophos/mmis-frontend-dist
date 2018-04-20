@@ -1,2 +1,2 @@
 # mmis-frontend-dist
-Builded version for web
+Built version for web
