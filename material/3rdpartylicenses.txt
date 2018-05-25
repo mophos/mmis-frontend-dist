@@ -252,7 +252,7 @@ MIT License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE
 
-@agm/core@1.0.0-beta.2
+@agm/core@1.0.0-beta.3
 MIT
 The MIT License (MIT)
 
