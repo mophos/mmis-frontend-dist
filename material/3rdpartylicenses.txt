@@ -78,7 +78,7 @@ MIT
 MIT
 MIT
 
-lodash@4.17.10
+lodash@4.17.11
 MIT
 Copyright JS Foundation and other contributors <https://js.foundation/>
 
@@ -228,7 +228,7 @@ MIT License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE
 
-@agm/core@1.0.0-beta.3
+@agm/core@1.0.0-beta.5
 MIT
 The MIT License (MIT)
 
